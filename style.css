@@ -1,0 +1,177 @@
+.bookicon{
+    width:50px;
+    height:40px;
+    float:left;
+    top:0;
+   
+}
+.name{
+   float: left;
+   display: flex;
+   font-size: 20px;
+   top:10px;
+   
+   
+   
+  
+}
+
+
+.nav{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    position:sticky;
+    top:0;
+   
+}
+   
+ul{
+    display: flex;
+    margin:10px;
+    list-style:none ;
+    margin:10px;
+    top: 15px;
+}
+.navbar{
+    text-decoration: none;
+    padding: 50px;
+    color: black;
+    font-size: 20px;
+ 
+}
+img{
+    width:100%;
+    height:600px;
+}
+.center{
+   
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+    
+    color: #fff;
+    font-family: 'Vina Sans', cursive;
+}
+button{
+    position: absolute;
+    top: 65%;
+    left: 45%;
+    font-size: 30px;
+    color:black;
+    background-color: cornsilk;
+  }
+  button:hover{
+    color: #fff;
+    background-color:black;
+  }
+  .img1{
+    width:160px;
+    height:150px;
+  }
+  .btn1{
+    color:black;
+    background-color: bisque;
+  }
+  .btn1:hover{
+    color:white;
+    background-color: black;
+  }
+  .btn2{
+    color:black;
+    background-color: bisque;
+    
+  }
+  .btn2:hover{
+    color:white;
+    background-color: black;
+  }
+   p{
+    text-align: center;
+  }
+  i{
+    color:black;
+  }
+  .img10{
+    width: 100%;
+    height:400px;
+  }
+
+.cat{
+  text-decoration: none;
+  text-align: justify;
+  color: black;
+  margin: 10px;
+  font-size: 20px;
+  border: 1px solid black;
+}
+
+.div1{
+  width:180px;
+  height:250px;
+  background-color: ghostwhite;
+  color:rgb(6,6,105);
+  border: 1px solid black;
+  height: 280px;
+  margin:20px;
+  padding:10px;
+  float: left;
+}
+.img2{
+  width:190px;
+  height:150px;
+}
+.img3{
+  width:180px;
+  height:150px;
+}
+.first{
+  margin:25px;
+}
+.second{
+  margin:25px;
+}
+.three{
+  margin:25px;
+}
+.four{
+  margin:25px;
+}
+.five{
+  margin:25px;
+}
+.six{
+  margin:25px;
+}
+.seven{
+  margin:25px;
+}
+#last{
+margin-top: 80px;
+
+}
+  
+.lastdiv{
+  
+  text-align: justify;
+  margin-top:400px ;
+  border: 1px solid black;
+  margin-left: 30px;
+  background-color: black;
+ text-align: center;
+ width: 1420px;
+
+ 
+}
+.link{
+  text-decoration: none;
+  color: white;
+ 
+}
+.navbar1{
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+ 
